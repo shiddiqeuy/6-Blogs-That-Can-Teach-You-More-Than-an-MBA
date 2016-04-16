@@ -36,3 +36,6 @@ Run (as its URL suggests) by Tim Calkins, a clinical professor of marketing at t
 Aaron Ross's blog: http://www.predictablerevenue.com/blog
 
 Ross, writer of the No. 1 best-selling book Predictable Revenue, combines practical advice with more personal posts, keeping readers informed and inspired. Like the writers at PeopleMetrics, he uses real examples from his consulting experience to demonstrate the principles of effective sales.
+
+
+Source : Here are 6 blogs that can teach you more than an MBA @jeremarketer http://www.inc.com/jeremy-goldman/6-blogs-that-can-teach-you-more-than-an-mba.html
