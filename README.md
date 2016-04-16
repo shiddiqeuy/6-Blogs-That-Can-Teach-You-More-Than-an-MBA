@@ -19,9 +19,9 @@ Fred Wilson's blog: http://www.avc.com
 
 A venture capitalist since 1986, Fred Wilson shares his considerable experience in VC, general business, and startups--particularly tech. A prolific writer, he has posted every day since 2003, and amassed a large following of insightful commenters who provide almost as much useful information as the blog itself.
 
-No. 4: Customer experience
+# No. 4: Customer experience
 
-# PeopleMetrics: http://www.peoplemetrics.com/blog
+PeopleMetrics: http://www.peoplemetrics.com/blog
 
 The PeopleMetrics blog does not omit a single facet of customer experience, with case studies and actionable advice that will help vastly improve the attractiveness of your business. Its writing staff is composed of practicing customer experience management experts, who rely not only on their previous experience but also on what they're learning in current engagements.
 
