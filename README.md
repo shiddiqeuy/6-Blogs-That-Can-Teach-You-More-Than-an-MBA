@@ -1,7 +1,7 @@
 # 6-Blogs-That-Can-Teach-You-More-Than-an-MBA
 Personel Improvement Repository
 
-No. 1: From the horse's mouth
+# No. 1: From the horse's mouth
 
 Harvard Business Review: http://www.hbr.org
 
